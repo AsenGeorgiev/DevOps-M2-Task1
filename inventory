@@ -1,4 +1,4 @@
 web ansible_host=192.168.99.100 ansible_user=vagrant ansible_ssh_pass=vagrant
 
-[web]
+[web1]
 192.168.99.100
